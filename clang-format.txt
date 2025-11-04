@@ -72,8 +72,7 @@ BreakAdjacentStringLiterals: false
 BreakAfterAttributes: Always
 BreakAfterJavaFieldAnnotations: true
 BreakArrays: false
-BreakBeforeBinaryOperators: None 
-BreakBeforeBraces: Allman
+BreakBeforeBinaryOperators: None
 BreakBeforeConceptDeclarations: Always
 BreakBeforeInlineASMColon: OnlyMultiline
 BreakBeforeTernaryOperators: false
